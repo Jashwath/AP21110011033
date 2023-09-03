@@ -1,0 +1,6 @@
+123 main()
+{
+   int a=100;
+   int b=200;
+   /* a isnot equal to b */
+}
