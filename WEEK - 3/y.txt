@@ -1,0 +1,16 @@
+number:	123
+identifier:	main
+delimiter:	(
+delimiter:	)
+delimiter:	{
+keyword:	int
+identifier:	a
+relational_operator:	=
+number:	100
+delimiter:	;
+keyword:	int
+identifier:	b
+relational_operator:	=
+number:	200
+delimiter:	;
+delimiter:	}
